@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunobusaala
-- 👀 I’m interested in Developing cross-platform  Software with mvp architecture.
+- 👀 I’m interested in Developing cross-platform  Software with mvc and Onion architecture.
 - 🌱 I’m currently learning Domain Driven Design
 - 💞️ I’m looking to collaborate on developing mobile and web based applications. 
 
